@@ -31,4 +31,18 @@
         tools:layout_editor_absoluteX="82dp"
         tools:layout_editor_absoluteY="259dp" />
 
+    <Switch
+        android:id="@+id/switch1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Switch"
+        tools:layout_editor_absoluteX="124dp"
+        tools:layout_editor_absoluteY="464dp" />
+
+    <RadioGroup
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        tools:layout_editor_absoluteX="51dp"
+        tools:layout_editor_absoluteY="85dp" />
+
 </android.support.constraint.ConstraintLayout>
